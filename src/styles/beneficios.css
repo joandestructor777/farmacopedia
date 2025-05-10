@@ -1,0 +1,43 @@
+
+
+.benefit{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #d6d6d6;
+    margin:0 5px 5px 5px;
+    width: 45%;
+    border-radius: 10px;
+    transition: background-color 1s cubic-bezier(0.075, 0.82, 0.165, 1) 0;
+
+    &:hover{
+        background-color: #a8e6a1;
+    }
+}
+
+.benefit-title{
+    text-align: center;
+    width: clamp(60%,80%,90%);
+    font-family: var(--font-inherit);
+    font-size: clamp(.9rem,1.1rem,1.3rem);
+    font-weight: bolder;
+}
+
+.benefit-img-container{
+    width: 40%;
+}
+.benefit-img{
+    width: 100%;
+}
+.benefit-text{
+    font-family: var(--font-inherit);
+    font-size: clamp(.6rem,.8rem,1.1rem);
+    width: 90%;
+    font-weight: bold;
+    text-align: center;
+}
+
+.benefit p, .benefit h2{
+    user-select: none;
+}

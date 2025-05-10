@@ -1,0 +1,30 @@
+.medicamentoGenerico,
+.medicamentoComercial,
+.efectosSecundarios-text,
+.cuidados-li{
+    font-size: clamp(.9rem, 2vw, 1.1rem);
+    color: #424242; 
+    line-height: 1.6;
+    text-align: left;
+    
+}
+.medicamentoGenerico,
+.medicamentoComercial{
+    margin-top: 14px;
+}
+
+strong, 
+.efectosSecundarios-title,
+.cuidados-title{
+    color: #00796B;
+    font-weight: 600;
+    margin-top: 14px;
+
+}
+
+.cuidados-ol{
+    padding: 10px 20px;
+}
+.cuidados-li{
+    margin: 0 0 15px 0;
+}
