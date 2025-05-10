@@ -1,0 +1,212 @@
+TITULO
+Farmacopedia Enfermería: Guía interactiva de grupos farmacológicos para estudiantes de salud
+
+Objetivo general:
+Diseñar una página web interactiva destinada a estudiantes de enfermería, que permita consultar de forma clara, rápida y estructurada la información esencial de los principales grupos farmacológicos, facilitando el estudio y la preparación clínica.
+
+Justificación:
+En el ámbito académico de la enfermería, muchos estudiantes enfrentan dificultades para encontrar información organizada y confiable sobre medicamentos, especialmente en lo referente a los grupos farmacológicos, sus acciones farmacológicas, efectos secundarios, nombres comerciales, y cuidados de enfermería asociados.
+
+Actualmente, gran parte de esta información está dispersa o en libros complejos. Esta propuesta busca centralizar y simplificar este contenido en una sola plataforma accesible desde cualquier dispositivo, ideal para el repaso rápido antes de una práctica clínica o examen.
+
+¿Qué contendrá la plataforma?
+Cada grupo farmacológico estará desglosado de la siguiente forma:
+
+Ejemplo con el grupo: Analgésicos Opioides
+Definición del grupo: ¿Qué son los opioides?
+
+Acción farmacológica: Cómo actúan en el cuerpo
+
+Ejemplos de medicamentos:
+
+Nombre genérico POR EJEMPLO: Morfina
+
+Nombre comercial POR EJEMPLO: Doloral
+
+Efectos secundarios comunes
+
+3 cuidados de enfermería esenciales por medicamento
+
+Este mismo formato se repetirá para otros grupos, por ejemplo:
+
+Analgésicos No Opioides (como el paracetamol)
+
+Analgésicos Antiinflamatorios No Esteroideos (como el ibuprofeno)
+
+Más adelante: antibióticos, antihipertensivos, ansiolíticos, etc.
+
+¿Qué tendrá de especial la página?
+✅ Información clara, resumida y confiable
+
+✅ Navegación fácil (por tarjetas o categorías)
+
+✅ Diseño visual bonito y amigable (colores pastel, responsivo)
+
+✅ Compatible con celulares
+
+✅ Ideal para estudiar rápidamente o consultar en práctica clínica
+
+¿A quién va dirigido?
+Estudiantes de enfermería
+
+Profesores
+
+Personal de salud que necesite una guía rápida
+
+Incluso puede usarse como herramienta de repaso para exámenes
+
+📌 ¿Qué beneficios aporta?
+Organiza el estudio de forma visual y práctica
+
+Reduce el tiempo de búsqueda de información
+
+Favorece el aprendizaje autónomo y la retención del contenido
+
+Es accesible y usable desde cualquier lugar (hospital, universidad, casa)
+
+
+
+
+
+
+
+
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+ Estructura visual de la UI – Farmacopedia Enfermería
+🟪 Encabezado superior (Header)
+Título grande: “Farmacopedia Enfermería”
+
+Subtítulo: “Guía interactiva de grupos farmacológicos”
+
+Color pastel suave (rosa, lila, celeste...)
+
+🟩 Botón principal centrado
+🟢 [ Explorar grupos farmacológicos ]
+
+Te lleva a la lista de grupos (tipo botón grande y visible)
+
+🟦 Cuatro beneficios en cuadros o iconos
+Diseñados tipo tarjetas pequeñas o íconos redondeados:
+
+✅ Información clara
+
+📱 Compatible con celular
+
+🕒 Repaso rápido
+
+👩‍⚕️ Hecho para estudiantes de salud
+
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+
+🟨 Sección: Grupos farmacológicos (en tarjetas)
+Tarjetas con nombre y color distinto:
+
+💊 Opioides
+
+💊 Antibióticos
+
+💊 Ansiolíticos
+
+💊 AINEs (Ibuprofeno, etc.)
+
+Al dar clic, se abre la info del grupo
+
+🟫 Página de grupo seleccionado (Ejemplo: Opioides)
+Definición del grupo
+
+Acción farmacológica
+
+Lista de medicamentos:
+
+🧾 Morfina
+
+Nombre comercial: Doloral
+
+Efectos secundarios
+
+Cuidados de enfermería (3 puntos claves)
+
+🧾 Otro medicamento...
+
+🟧 Pie de página (footer)
+Créditos del proyecto
+
+Versión
+
+Enlace a contacto (opcional)
+
+🖼 Estilo visual general
+Colores pastel (fondo rosa claro o lila, tarjetas celestes...)
+
+Íconos médicos si se puede
+
+Todo con diseño responsivo, fácil de leer
+
+Ideal para tocar y explorar con el dedo (en celular)
+
+
+______________________________________________________
+LISTA DE GRUPOS FARMACOLOGICOS
+📚 Lista ampliada de grupos farmacológicos (para hospital)
+🟢 Grupos esenciales (muy comunes):
+Analgésicos – Contra el dolor
+
+Antiinflamatorios – Reducen inflamación (incluyen AINEs)
+
+Antibióticos – Contra bacterias
+
+Antidiabéticos – Controlan la glucosa
+
+Antihipertensivos – Controlan la presión arterial
+
+Antipiréticos – Bajan la fiebre
+
+Antidepresivos – Tratan depresión
+
+Ansiolíticos – Tratan ansiedad
+
+Anticonvulsivantes – Previenen convulsiones
+
+Antihistamínicos – Contra alergias
+
+Anticoagulantes – Evitan coágulos en la sangre
+
+Broncodilatadores – Dilatan bronquios (asma, EPOC)
+
+Diuréticos – Eliminan exceso de líquidos
+
+Antiácidos – Contra acidez estomacal
+
+Antipsicóticos – Tratan esquizofrenia y psicosis
+
+Antivirales – Combaten infecciones por virus
+
+Antifúngicos – Contra infecciones por hongos
+
+Antieméticos – Contra náuseas y vómitos
+
+Relajantes musculares – Disminuyen el tono muscular
+
+Hipnóticos – Inducen el sueño
+
+🔵 Grupos adicionales recomendados (uso hospitalario más especializado):
+Inmunosupresores – Suprimen el sistema inmune (trasplantes, enfermedades autoinmunes)
+
+Antineoplásicos (quimioterapia) – Tratan cáncer
+
+Corticoides / Glucocorticoides – Antiinflamatorios potentes y moduladores inmunes
+
+Antiparasitarios – Contra parásitos intestinales o tropicales
+
+Laxantes – Tratan el estreñimiento
+
+Antitusivos – Calman la tos seca
+
+Mucolíticos – Disuelven y expulsan flemas
+
+Vasodilatadores – Dilatan vasos para tratar angina, hipertensión
+
+Antiespasmódicos – Contra cólicos y espasmos gastrointestinales
+
+Antidemencia (Alzheimer) – Mejoran síntomas cognitivos (ej. donepezilo)
+

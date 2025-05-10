@@ -1,0 +1,94 @@
+* {
+    font-family: var(--font-inherit);
+    font-size: clamp(.8rem, 1.1rem, 1.2rem);
+}
+
+.grupofarma-container {
+    padding: 12px;
+    margin: 20px;
+    background-color: #A5D6A7; 
+    outline: 4px solid #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+}
+
+.grupo-titulo {
+    text-align: center;
+    font-size: 2rem;
+    color: #00574B; 
+    filter: drop-shadow(2px 2px 1px #0003);
+    font-weight: 600;
+    margin-bottom: 1rem;
+
+}
+
+.grupo-grid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    margin-top: 1rem;
+}
+
+.grupo-card {
+    background: linear-gradient(to bottom, #FFFFFF, #F5F5F5);
+    padding: 1.5rem;
+    border-radius: 10px;
+    outline: 2px solid #E0E0E0; 
+    transition: all 0.3s ease;
+    
+    &:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 6px 12px rgba(0,107,91,0.15); 
+        outline: 2px solid #00796B; 
+    }
+}
+
+.grupo-subtitulo {
+    margin-bottom: 0.8rem;
+    font-size: 1.3rem;
+    color: #00796B;
+    text-align: center;
+    font-weight: 500;
+    border-bottom: 2px solid #B2DFDB; 
+    padding-bottom: 0.5rem;
+}
+
+.grupo-texto {
+    font-size: clamp(.9rem, 2vw, 1.1rem);
+    color: #424242; 
+    line-height: 1.6;
+    text-align: center;
+}
+
+.ejemplos-container {
+    margin-top: 1.5rem;
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+.ejemplo-card {
+    padding: 1.5rem;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    border-left: 5px solid #00796B; 
+    transition: all 0.3s ease;
+}
+
+.ejemplo-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 15px rgba(0,107,91,0.1);
+}
+
+.ejemplos-title {
+    margin-bottom: 1rem;
+    font-size: clamp(1.1rem, 2vw, 1.5rem);
+    color: #00796B;
+    letter-spacing: 0.5px;
+    text-align: center;
+    font-weight: 600;
+    padding-bottom:0.5rem ;
+    border-bottom: 2px solid #B2DFDB; 
+
+}
